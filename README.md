@@ -1,1 +1,40 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/HUTRW-Gm)
+Thrilled to unveil my latest project – Taskmate.
+
+It is a task management web application that users may use to organise their tasks efficiently.
+
+
+👨‍💻Tech Stack: 
+
+
+MERN with Tailwind CSS
+
+
+✨ Key Features:
+
+
+-Task CRUD operations with REST APIs
+
+-User authentication with JWT
+
+-Password encryption with Bcrypt
+
+
+🚀 Get Started:
+
+
+-Clone the repo.
+
+-Install dependencies ("npm i" command)
+
+-Configure environment variables.
+
+-Run the server & explore ("npm run dev")
+
+
+Hosted at:
+
+
+https://taskmate-kfuq.onrender.com
+(Kindly wait a minute for server to get deployed )
+
+Default login account is user123 and password is 12345678
