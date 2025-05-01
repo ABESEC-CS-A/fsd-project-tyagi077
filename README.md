@@ -19,22 +19,3 @@ MERN with Tailwind CSS
 -Password encryption with Bcrypt
 
 
-🚀 Get Started:
-
-
--Clone the repo.
-
--Install dependencies ("npm i" command)
-
--Configure environment variables.
-
--Run the server & explore ("npm run dev")
-
-
-Hosted at:
-
-
-https://taskmate-kfuq.onrender.com
-(Kindly wait a minute for server to get deployed )
-
-Default login account is user123 and password is 12345678
